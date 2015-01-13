@@ -1,0 +1,31 @@
+{
+  "name": "regex-oib",
+  "version": "0.0.0",
+  "description": "Regular expression for OIB.",
+  "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "keywords": [
+    "regex",
+    "oib",
+    "croatia"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niksy/regex-oib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niksy/regex-oib/issues"
+  },
+  "homepage": "https://github.com/niksy/regex-oib"
+}
