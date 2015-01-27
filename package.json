@@ -1,6 +1,6 @@
 {
   "name": "regex-oib",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression for OIB.",
   "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
   "license": "MIT",
